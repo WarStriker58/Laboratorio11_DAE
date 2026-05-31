@@ -111,3 +111,59 @@
 ![C9](imgs/Cap9_Ayala.png)
 
 ---
+
+## Integrante 3: Calderon Yefry
+
+### 1. Crear proyecto
+
+![C1](imgs/c1_Calderon_Yefry.png)
+
+---
+
+### 2. Limpiar proyecto
+
+![C2](imgs/c2_Calderon_Yefry.png)
+
+---
+
+### 3. Instalar tailwind
+
+![C3](imgs/c3_Calderon_Yefry.png)
+
+---
+
+### 4. Configurar alias
+
+![C4](imgs/c4_Calderon_Yefry.png)
+
+---
+
+### 5. Instalar y configurar shadcn
+
+![C5](imgs/c5_Calderon_Yefry.png)
+
+---
+
+### 6. Instalar y configurar axios
+
+![C6](imgs/c6_Calderon_Yefry.png)
+
+---
+
+### 7. Fetching de datos
+
+![C7](imgs/c7_Calderon_Yefry.png)
+
+---
+
+### 8. Mostrar por consola
+
+![C8](imgs/c8_Calderon_Yefry.png)
+
+---
+
+### 9. Renderizado de información
+
+![C9](imgs/c9_Calderon_Yefry.png)
+
+---
