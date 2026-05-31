@@ -34,22 +34,22 @@
 
 ### 6. Instalar y configurar axios
 
-![C6](imgs/C5_Salas.png)
+![C6](imgs/C6_Salas.png)
 
 ---
 
 ### 7. Fetching de datos
 
-![C7](imgs/C5_Salas.png)
+![C7](imgs/C7_Salas.png)
 
 ---
 
 ### 8. Mostrar por consola
 
-![C8](imgs/C5_Salas.png)
+![C8](imgs/C8_Salas.png)
 
 ---
 
 ### 9. Renderizado de información
 
-![C9](imgs/C5_Salas.png)
+![C9](imgs/C9_Salas.png)
